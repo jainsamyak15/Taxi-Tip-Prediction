@@ -27,13 +27,13 @@ The dataset contains information about taxi trips, including pick-up and drop-of
 - However, Snap ML demonstrates faster training time compared to Scikit-Learn, showcasing the advantage of using Snap ML for accelerating classical machine learning models.
 
 ## Project Structure
-- `taxi_tip_prediction.ipynb`: Jupyter Notebook containing the code for data preprocessing, model building, and evaluation.
+- `Taxi_Tip_Prediction.ipynb`: Jupyter Notebook containing the code for data preprocessing, model building, and evaluation.
 - `yellow_tripdata_2019-06.csv`: Dataset file containing the NYC Yellow Taxi Trip Records of June 2019.
 - Download above dataset by running this code in jupyter notebook: `!curl https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/yellow_tripdata_2019-06.csv` 
 
 ## Instructions
-1. Clone the repository: `git clone https://github.com/jainsamyak15/taxi_tip_prediction.git`
-2. Navigate to the project directory: `cd taxi_tip_prediction`
+1. Clone the repository: `git clone https://github.com/jainsamyak15/Taxi_Tip_Prediction.git`
+2. Navigate to the project directory: `cd Taxi_Tip_Prediction`
 3. Install the required libraries: `pip install -r requirements.txt`
-4. Open and run the `taxi_tip_prediction.ipynb` notebook to explore the code and results.
+4. Open and run the `Taxi_Tip_Prediction.ipynb` notebook to explore the code and results.
 

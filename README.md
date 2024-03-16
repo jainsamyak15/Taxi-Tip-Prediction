@@ -29,6 +29,7 @@ The dataset contains information about taxi trips, including pick-up and drop-of
 ## Project Structure
 - `taxi_tip_prediction.ipynb`: Jupyter Notebook containing the code for data preprocessing, model building, and evaluation.
 - `yellow_tripdata_2019-06.csv`: Dataset file containing the NYC Yellow Taxi Trip Records of June 2019.
+- Download above dataset by running this code in jupyter notebook: `!curl https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/yellow_tripdata_2019-06.csv` 
 
 ## Instructions
 1. Clone the repository: `git clone https://github.com/jainsamyak15/taxi_tip_prediction.git`
